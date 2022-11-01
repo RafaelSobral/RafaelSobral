@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @RafaelSobral
-- 👀 I'm interested in Front-End 
+- 👀 I'm interested in Front-End or FullStack Jr.
 - 🌱 I'm currently learning Javascript  
 - 📫 How to reach me: rafaelsobral@outlook.com or https://www.linkedin.com/in/rafael-sobral-ti/
 <!---
