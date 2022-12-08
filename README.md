@@ -2,7 +2,7 @@
 ## 🚀 Sobre mim
 
 - 👋 Hi, I'm @RafaelSobral
-- 👀 I'm interested in work Front-End Jr.
+- 👀 I'm interested in work Front-End
 - 🌱 I'm currently learning FullStack Javascript  
 - 📫 How to reach me: rafaelsobral@outlook.com
 
